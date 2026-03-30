@@ -4,14 +4,6 @@ const hi = {
     "github": "गिटहब",
     "feedback": "प्रतिक्रिया",
 
-    // Section titles
-    "personalizationSectionTitle": "व्यक्तिगतकरण",
-    "clockSectionTitle": "घड़ी",
-    "searchSectionTitle": "खोज",
-    "weatherSectionTitle": "मौसम",
-    "appearanceSectionTitle": "दिखावट",
-    "settingsSectionTitle": "सेटिंग्स",
-
     // Shortcuts
     "shortcutsText": "शॉर्टकट्स",
     "enableShortcutsText": "सहेजे गए शॉर्टकट प्रदर्शित करें",
@@ -159,9 +151,9 @@ const hi = {
     "resetAISettingsBtn": "रीसेट करें",
 
     // Theme
-    "lightThemed": "लाइट",
-    "darkThemed": "डार्क",
-    "systemThemed": "सिस्टम",
+    "lightThemed": "डिफ़ॉल्ट (लाइट थीम)",
+    "darkThemed": "डार्क थीम",
+    "systemThemed": "सिस्टम थीम का पालन करें",
 
     // Wallpaper and settings
     "uploadWallpaperText": "वॉलपेपर सेट करें",

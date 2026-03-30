@@ -149,9 +149,9 @@ const ja = {
     "resetAISettingsBtn": "リセット",
 
     // Theme
-    "lightThemed": "ライト",
-    "darkThemed": "ダーク",
-    "systemThemed": "システム",
+    "lightThemed": "デフォルト（ライトテーマ）",
+    "darkThemed": "ダークテーマ",
+    "systemThemed": "システムテーマに従う",
 
     // Wallpaper and settings
     "uploadWallpaperText": "壁紙をアップロード",
@@ -176,10 +176,6 @@ const ja = {
     "updateFirefoxHomepage": "ホームページを更新",
     "updateFirefoxHomepageInfo": "新しいタブと同じようにホームページも変更するには<a href=\"https://github.com/prem-k-r/MaterialYouNewTab#-firefox\" target=\"_blank\">このリンク</a>を見て手順に従ってください",
     "dontShowTips": "今後表示しない",
-
-    // Footer Toast
-    "footerToastTitle": "下部にバナーが表示されていますか?",
-    "footerToastMessage": "バナーを非表示にするには、右下の「カスタマイズ」をクリックして、「新しいタブページにフッターを表示する」をオフにしてください。",
 
     // Dialog boxes (alerts)
     "okText": "OK",

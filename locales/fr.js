@@ -153,9 +153,9 @@ const fr = {
     "resetAISettingsBtn": "Réinitialiser",
 
     // Theme
-    "lightThemed": "Clair",
-    "darkThemed": "Sombre",
-    "systemThemed": "Système",
+    "lightThemed": "Par défaut (Thème Clair)",
+    "darkThemed": "Thème Sombre",
+    "systemThemed": "Appliquer le thème du système",
 
 
     // Wallpaper and misc

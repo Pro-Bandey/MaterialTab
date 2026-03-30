@@ -4,14 +4,6 @@ const cs = {
     "github": "GitHub",
     "feedback": "Zpětná vazba",
 
-    // Section titles
-    "personalizationSectionTitle": "Přizpůsobení",
-    "clockSectionTitle": "Hodiny",
-    "searchSectionTitle": "Vyhledávání",
-    "weatherSectionTitle": "Počasí",
-    "appearanceSectionTitle": "Vzhled",
-    "settingsSectionTitle": "Nastavení",
-
     // Shortcuts
     "shortcutsText": "Zkratky",
     "enableShortcutsText": "Zobrazí zkratky",
@@ -157,9 +149,9 @@ const cs = {
     "resetAISettingsBtn": "Resetovat",
 
     // Theme
-    "lightThemed": "Světlý",
-    "darkThemed": "Temný",
-    "systemThemed": "Podle systému",
+    "lightThemed": "Výchozí (světlý režim)",
+    "darkThemed": "Temný režim",
+    "systemThemed": "Podle režimu systému",
 
     // Wallpaper and settings
     "uploadWallpaperText": "Nahrát tapetu",

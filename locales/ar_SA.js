@@ -164,9 +164,8 @@ const ar_SA = {
     resetAISettingsBtn: "إعادة تعيين",
 
     // Theme
-    "lightThemed": "فاتح",
-    "darkThemed": "داكن",
-    "systemThemed": "النظام",
+    enableDarkMode: "الوضع الداكن (تجريبي)",
+    enableDarkModeInfo: "تمكين سمات الوضع الداكن",
 
     // Wallpaper and settings
     uploadWallpaperText: "تحميل خلفية",
@@ -197,10 +196,6 @@ const ar_SA = {
     updateFirefoxHomepageInfo:
         'لتغيير صفحتك الرئيسية لتكون مثل علامة تبويب جديدة، قم بزيارة <a href="https://github.com/prem-k-r/MaterialYouNewTab#-firefox" target="_blank">هذا الرابط</a> واتبع التعليمات.',
     dontShowTips: "لا تظهر النصائح مرة أخرى",
-
-    // Footer Toast
-    "footerToastTitle": "هل ترى لافتة في الأسفل؟",
-    "footerToastMessage": "لإخفائها، انقر عليها بزر الماوس الأيمن واختر 'إخفاء التذييل في صفحة علامة التبويب الجديدة'.",
 
     // Dialog boxes (alerts)
     okText: "موافق",
